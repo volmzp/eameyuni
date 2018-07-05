@@ -1418,9 +1418,10 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "Unik 2",
-        "order": 1
+        "meta_descr": "Часы - Sport|Smart. Умные часы, которые сочетают в себе инновационные технологии и эстетическую красоту. Получите все самое необходимое для успеха в одном устройстве",
+        "title": "Unik 2 - Умные часы",
+        "order": 1,
+        "footer_custom": "<div id=\"custom-html-17\" custom-code=\"true\" data-rv-view=\"578\"><!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+38-068-561-7037\", // WhatsApp number\n            telegram: \"volmzp\", // Telegram bot username\n            call: \"+38-068-561-7037\", // Call phone number\n            company_logo_url: \"//static.whatshelp.io/img/flag.png\", // URL of company logo (png, jpg, gif)\n            greeting_message: \"Здравствуйте! Свяжитесь с нами через любой из мессенджеров или по телефону.\", // Text of greeting message\n            call_to_action: \"Свяжитесь с нами!\", // Call to action\n            button_color: \"#129BF4\", // Color of button\n            position: \"right\", // Position may be 'right' or 'left'\n            order: \"viber,whatsapp,telegram,call\", // Order of buttons\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /WhatsHelp.io widget --></div>"
       },
       "components": [
         {
